@@ -1,0 +1,29 @@
+const createWork = ()=>{
+    const content = document.querySelector(".content");
+    content.appendChild(workTab)
+    const workTab = document.createElement("div")
+    const printHead= document.createElement("h1");
+    printHead.innerHTML = 'Print';
+    const printList = document.createElement("ol");
+    const swHead= document.createElement("h1");
+    const swList = document.createElement("ol");
+ 
+    content.appendChild(printHead);
+   
+
+}
+
+export{createWork}
+
+
+
+
+const createWork = ()=>{
+    const content = document.querySelector(".con");
+      content.innerHTML= "hiiii"
+     console.log(content)
+     
+  return content;
+  }
+  
+  export{createWork}

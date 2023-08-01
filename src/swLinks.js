@@ -1,4 +1,12 @@
-const swLinks = [
+const swLinks = [ {
+  text: "Dusk in Ibiza with My Beloved [Centaur ]",
+  url: " https://centaurlit.com/dusk-in-ibiza-with-my-beloved-by-aimee-keeble/",
+},
+{
+  text: "2 Poems [The Basilisk Tree]",
+  url: " https://basilisktree.com/aimee-keeble",
+},
+
   {
     text: "Rabbit Heart [Split Lip Magazine]",
     url: " https://splitlipthemag.com/flash/0623/aime-keeble",
