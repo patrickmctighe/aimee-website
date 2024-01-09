@@ -7,7 +7,7 @@ import "./btn.css"
 import { createWork } from "./work";
 import { createAbout } from "./about";
 
-import slide1 from "./images/slide1.png";
+import slide1 from "./images/headshot1.jpg";
 import slide2 from "./images/slide2.png";
 import slide3 from "./images/slide3.png";
 import slide4 from "./images/slide4.png";

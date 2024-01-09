@@ -1,5 +1,10 @@
-const swLinks = [ {
-  text: "Dusk in Ibiza with My Beloved [Centaur ]",
+const swLinks = [ 
+  {
+    text: "What More is There [Needle Poetry]",
+    url: "  https://www.needlepoetry.co.uk/store/p/needle-poetry-issue-ii",
+  },
+  {
+  text: "Dusk in Ibiza with My Beloved [Centaur]",
   url: " https://centaurlit.com/dusk-in-ibiza-with-my-beloved-by-aimee-keeble/",
 },
 {
