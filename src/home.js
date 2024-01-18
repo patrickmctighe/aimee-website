@@ -49,12 +49,13 @@ const createHome = () => {
 
   const swiperSlides = [slide1, slide2, slide3, slide4, slide5, slide6, slide7];
 
-  swiperSlides.forEach((slideContent) => {
+  swiperSlides.forEach((slideContent,index) => {
     const slide = document.createElement("div");
     slide.classList.add("swiper-slide");
+    slide.classList.add(`slide-${index}`); 
 
     const slideImg = document.createElement("img");
-    slideImg.setAttribute("class","imgs")
+    slideImg.setAttribute("class",`imgs${index}`)
     slideImg.src = slideContent;
 
     slide.appendChild(slideImg);

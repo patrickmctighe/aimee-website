@@ -11,12 +11,12 @@
   :root {
     --swiper-theme-color: pink;
 }
+.imgs0{
+    width: auto;
+    height: 94%;
 
-.imgs{
-    width: auto ;
-    max-width: 100% ;
-    height:90% ;
 }
+
 @media (max-width: 600px) {
     .swiper {
         width: 100%;
