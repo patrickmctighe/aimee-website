@@ -173,9 +173,9 @@ background-color: white;
      
         .swiper {
             width: 90%;
-            height: 65vh;
-            padding-top: 5%;
-            padding-bottom: 5%;
+            height: 75vh;
+            padding-top: 1%;
+            padding-bottom: 4%;
         }
         
         .swiper-slide{
@@ -193,7 +193,7 @@ background-color: white;
         }
         .imgs{
             width: auto;
-            height: 94%;
+            height: 90%;
         
         }
     }
@@ -225,6 +225,7 @@ background-color: white;
         
         }
       
+      
         
     }
     
@@ -245,9 +246,9 @@ background-color: white;
           :root {
             --swiper-theme-color: pink;
         }
-        .img0{
+        .img0, .img1, .img2, .img3, .img4,.img5,.img6, .img7{
             width: auto;
-            height: 94%;
+            height: 80%;
         
         }
         .imgs{
@@ -263,9 +264,9 @@ background-color: white;
        
         .swiper {
             width: 90%;
-            height: 50vh;
-            padding-top: 20%;
-            padding-bottom: 20%;
+            height: 69vh;
+            padding-top: 3%;
+            padding-bottom: 4%;
         }
         
         .swiper-slide{
@@ -276,14 +277,20 @@ background-color: white;
           :root {
             --swiper-theme-color: pink;
         }
-        .img0{
+        .img0, .img1, .img2, .img3, .img4,.img5,.img6, .img7{
             width: auto;
-            height: 94%;
+            height: 80%;
         
         }
         .imgs{
             width: auto;
             height: 94%;
+        
+        }
+
+        .img1, .img2{
+            width: auto;
+            height: 70%;
         
         }
     }
