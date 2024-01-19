@@ -1,7 +1,7 @@
 const printLinks = [
   {
-    text:"The Flowers of Mount Olympus [Twin Bird Review] ",
-    url: "https://www.olneymagazine.com/store/p/issue-5-pre-order",
+    text:"What More is There [Needle Poetry]",
+    url: " https://www.needlepoetry.co.uk/store/p/needle-poetry-issue-ii",
   },
   {
     text:"Olney Magazine Dissents Issue, Honorarium Winner, I am No Mare",

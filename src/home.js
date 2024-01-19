@@ -55,7 +55,8 @@ const createHome = () => {
     slide.classList.add(`slide-${index}`); 
 
     const slideImg = document.createElement("img");
-    slideImg.setAttribute("class",`imgs${index}`)
+    slideImg.setAttribute("class","imgs")
+    slideImg.classList.add(`img${index}`)
     slideImg.src = slideContent;
 
     slide.appendChild(slideImg);

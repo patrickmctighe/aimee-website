@@ -1,7 +1,7 @@
 const swLinks = [ 
   {
-    text: "What More is There [Needle Poetry]",
-    url: "  https://www.needlepoetry.co.uk/store/p/needle-poetry-issue-ii",
+    text: "The Flowers of Mount Olympus [Twin Bird Review]",
+    url: "https://www.twinbirdreview.com/12---f---keeble.html",
   },
   {
   text: "Dusk in Ibiza with My Beloved [Centaur]",
