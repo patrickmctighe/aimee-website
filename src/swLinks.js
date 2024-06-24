@@ -44,10 +44,7 @@ const swLinks = [
     text: "Now Let Us Release [Cape Magazine]",
     url: "https://online.fliphtml5.com/tnapr/lkbg/#p=1",
   },
-  {
-    text: "everything so far [Goats Milk Magazine]",
-    url: "https://goatsmilkmagazine.ca/2021/10/01/everything-so-far",
-  },
+
   {
     text: "When my mother was a galaxy [Crow & Cross Keys]",
     url: "https://crowcrosskeys.com/2021/07/31/when-my-mother-was-a-galaxy-aimee-keeble/",
@@ -136,18 +133,7 @@ const swLinks = [
     text: "Uncle Alex (Trocchi) [3:AM Magazine ]",
     url: "https://www.3ammagazine.com/3am/poembrut99/",
   },
-  {
-    text: "Wolf-Like [Terror House]",
-    url: "https://terrorhousemag.com/wolf-like/",
-  },
-  {
-    text: "Night Club [Terror House Magazine]",
-    url: "https://terrorhousemag.com/club/",
-  },
-  {
-    text: " At the Top of the 106 [Terror House Magazine]",
-    url: "https://terrorhousemag.com/top/",
-  },
+ 
   {
     text: "At the waterhole [The Nervous Breakdown]",
     url: "https://thenervousbreakdown.com/author/akeeble/",
